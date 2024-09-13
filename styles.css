@@ -82,6 +82,9 @@ a {
 .month7 {
 	display: none;
 }
+.month8 {
+	display: none;
+}
 /* --------------------------------------------------------------------- */
 @media only screen and (max-width: 768px) {
 	#background {
